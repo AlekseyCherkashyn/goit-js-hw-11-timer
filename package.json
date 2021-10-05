@@ -3,20 +3,20 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://AlekseyCherkashyn/goit-js-hw-11-timer",
+  "homepage": "https://AlekseyCherkashyn.github.io/goit-js-hw-11-timer",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-11-timer/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://AlekseyCherkashyn/goit-js-hw-11-timer.git"
+    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
-  "author": "AlekseyCherkashyn",
+  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://AlekseyCherkashyn/goit-js-hw-11-timer/issues"
+    "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
